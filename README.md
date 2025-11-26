@@ -7,7 +7,7 @@
 ### <div align="center">I'm José Luiz Maciel Pimenta, a full-time data scientist and machine learning engineer 👨‍💻 working remotely since 2022 🚀</div>  
   
 
-- 🔭 I’m currently working on [pyspark ml recipes](https://github.com/JoseLuiz432/pyspark-ml-recipes)  
+- 🔭 I’m currently working on building an End-to-End [AWS SageMaker CV Pipeline](https://github.com/JoseLuiz432/aws-sagemaker-cv-pipeline) (YOLOv8 & ResNet).
   
 
 - 🌱 I’m currently learning Spark and Kubernets  
